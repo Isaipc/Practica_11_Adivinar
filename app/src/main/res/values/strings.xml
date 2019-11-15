@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica_11_Adivinar</string>
+    <string name="number">Ingrese un número</string>
+    <string name="play">Jugar</string>
+    <string name="result">0</string>
+    <string name="score">Puntaje:</string>
+    <string name="text">Adivine un numero entre 1 y 50</string>
+    <string name="tries">Intentos</string>
+</resources>
